@@ -1,6 +1,6 @@
 # react-navigation-deep-link-bug
 
-The bug I encountered is that a deep link which opens the app (the app was killed/closed/etc, not backgrounded), opens both the initialroute and the route specified by the deep link.
+The bug I encountered is that a deep link which opens the app (the app was killed/closed/etc, not backgrounded), opens both the Initial Route and the route specified by the deep link.
 
 This project reproduces an issue with react navigation.
 Steps:

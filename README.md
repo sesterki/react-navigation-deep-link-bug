@@ -1,0 +1,1 @@
+# react-navigation-deep-link-bug

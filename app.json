@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "react-navigation-deep-link-bug",
+    "slug": "react-navigation-deep-link-bug",
+    "privacy": "public",
+    "sdkVersion": "32.0.0",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/icon.png",
+    "splash": {
+      "image": "./assets/images/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "android": {
+      "package": "com.sesterki.reactnavigationbug"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "scheme": "testapp",
+    "ios": {
+      "supportsTablet": true
+    }
+  }
+}
